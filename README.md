@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mevn-stack
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# MEVN-Stack
+>>>>>>> 94d3a78cfc470ea8e687d46015030b929f065107
